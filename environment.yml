@@ -1,0 +1,10 @@
+name: spain-map
+channels:
+  - conda-forge
+dependencies:
+  - folium=0.12.1
+  - geopandas=0.10.2
+  - geopandas-base=0.10.2=pyha770c72_1
+  - jupyter=1.0.0
+  - numpy=1.22.1
+  - pandas=1.4.0
